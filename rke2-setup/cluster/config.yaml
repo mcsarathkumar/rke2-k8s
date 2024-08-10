@@ -1,0 +1,5 @@
+cluster-cidr: 10.254.0.0/16
+service-cidr: 10.255.0.0/16
+cluster-dns: 10.255.0.10
+enable-servicelb: true
+cni: calico
