@@ -1,0 +1,1 @@
+/usr/bin/rke2-uninstall.sh
