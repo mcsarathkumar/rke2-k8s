@@ -20,3 +20,7 @@ spec:
             name: flask-config
         ports:
         - containerPort: 5000
+        resources:
+          limits:
+            memory: "256Mi"
+            cpu: "250m"
